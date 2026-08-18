@@ -1,0 +1,9 @@
+__pycache__/
+models/
+data/raw/
+data/parsed/
+data/chunks/
+vectorstore/
+ARCHITECTURE.md
+.vscode/
+.claude/settings.local.json
